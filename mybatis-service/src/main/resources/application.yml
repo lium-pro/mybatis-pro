@@ -1,0 +1,9 @@
+# mysqlÕûºÏ
+spring:
+  datasource:
+    name: haha
+    type: org.springframework.jdbc.datasource.DriverManagerDataSource
+    url: jdbc:mysql://localhost:3306/mysql2?serverTimezone=UTC
+    driver-class-name: com.mysql.jdbc.Driver
+    username: lium
+    password: liumeng123
